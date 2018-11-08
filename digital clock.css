@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  font-family: Arial;
+  font-weight: lighter;
+  color: #FFFFFF;
+/*border: 2px #FFFFFF solid;*/
+}
+body {
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  font-kerning: none;
+  font-size: 49.2482pt;
+}
